@@ -1,0 +1,4 @@
+Hello file!
+C File handling is powerfull
+This line should be at the end
+This line should be at the end

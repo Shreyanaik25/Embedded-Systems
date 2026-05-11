@@ -1,0 +1,3 @@
+My name is shreya
+I am learning C files
+This is w+ mode

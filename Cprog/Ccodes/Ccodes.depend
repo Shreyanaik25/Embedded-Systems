@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1739377843 source:d:\cprog\ccodes\add.c
+	<stdio.h>
+
+1733062816 source:d:\cprog\ccodes\main.c
+	<stdio.h>
+
+1739378128 source:d:\cprog\ccodes\trianglefun.c
+

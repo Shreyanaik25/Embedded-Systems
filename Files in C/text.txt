@@ -1,0 +1,2 @@
+Hello file!
+C File handling is powerfull

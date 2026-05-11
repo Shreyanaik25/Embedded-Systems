@@ -1,0 +1,12 @@
+Name:Shreya Naik
+Age:22
+Marks:45
+Name:Pallavi
+Age:22
+Marks:48
+Name:Vish
+Age:22
+Marks:49
+Name:Ayshii
+Age:22
+Marks:48
